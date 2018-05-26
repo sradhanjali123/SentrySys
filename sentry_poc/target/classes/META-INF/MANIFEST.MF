@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: io.sentry.log4j
+Built-By: pc
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+

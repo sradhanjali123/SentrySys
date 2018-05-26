@@ -1,0 +1,7 @@
+sentry_poc\SentryException.class
+sentry_poc\SentryServletContextInitializer.class
+sentry_poc\SentryAppender$1.class
+sentry_poc\SentryAppender.class
+sentry_poc\SentryAppender$DropSentryFilter.class
+sentry_poc\SentryExceptionResolver.class
+sentry_poc\MyClass.class
